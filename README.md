@@ -41,6 +41,9 @@ https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
 Fabric Loader: https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.10.2/fabric-installer-0.10.2.exe  
 Mods: https://drive.google.com/file/d/1MIHlX3XBjcb9D0nQAYeGXkj_na8DpJEZ/view?usp=sharing (깃헙에는 고용량 파일을 올리기 복잡한 관계로 구글 드라이브로 대체)  
   
+만약 JAVA 17버전이 안 깔려있다면 다음 링크를 통해 자신의 운영체제(Windows, Mac OS X 등)에 맞는 버전을 선택하여 설치한다.  
+https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html  
+  
 ![패브릭 설치](https://user-images.githubusercontent.com/89377563/151611973-566099f3-f209-4e76-98c0-3dece7ec20ff.PNG)  
 다운로드 한 Fabric Loader.exe를 실행시킨 후 Fabric Loader를 다운로드 할 폴더가 마인크래프트 파일이 설치된 폴더가 맞는지 확인 한 후 다운로드한다.  
   
