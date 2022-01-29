@@ -6,7 +6,7 @@
 
 
 # 1: MultiMC로 모드 파일 실행
-먼저 아래에 주어진 url 중 자신의 OS에 맞는 url을 클릭한다.  
+먼저 아래에 주어진 url 중 자신의 OS에 맞는 url을 클릭하여 MultiMC 파일을 다운로드한다.  
 Windows: https://files.multimc.org/downloads/mmc-stable-win32.zip  
 Mac OS X: https://files.multimc.org/downloads/mmc-stable-osx64.tar.gz  
 Linux(Debian/Ubuntu): https://files.multimc.org/downloads/multimc_1.6-1.deb  
